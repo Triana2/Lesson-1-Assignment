@@ -65,3 +65,16 @@ Video courtesy of
 
 </body>
 </html>
+
+<html>
+<body>
+
+  <p>Create to the websites on where I got the info</p>
+
+  <p><a href="https://www.imdb.com/title/tt0107120/">Visit imdb.com!</a></p>
+  <p><a href="https://en.wikipedia.org/wiki/Hocus_Pocus_(1993_film)">Visit wikipedia.org!</a></P>
+  <p><a href="https://parade.com/938005/stephanieosmanski/hocus-pocus-quotes/">Visit parade.com!</a></p>
+  <p><a href="https://quotecatalog.com/quotes/movies/hocus-pocus/">Visit quotecatalog.com!</a></p>
+
+</html>
+</body>
